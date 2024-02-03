@@ -1,0 +1,16 @@
+
+#mycontainer {
+  width: 80%;
+  overflow: auto;
+  margin: auto;
+  background-color: aqua;
+  align-items: center;
+  
+}
+
+.szepdiv{
+  width: 30%;
+  float: left;
+  margin: 3px; /*külső margó*/
+  padding: 10px; /*belső margó*/ 
+}
